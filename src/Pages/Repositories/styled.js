@@ -12,7 +12,7 @@ export const Title = styled.h1`
   font-size: 2rem;
   font-family: sans-serif;
   color: #fff;
-`
+`;
 
 export const List = styled.ul`
   list-style: none;
