@@ -1,13 +1,14 @@
 # Pesquisador de repositórios do GitHub
 
-<br>
-
 ## Sobre
 Projeto desenvolvido durante as aulas de React do Hiring Coders, da Gama Academy em parceria com a VTEX.
 
 Trata-se de uma aplicação onde, na página inicial, o usuário insere um nome de usuário do Github. Em seguida a aplicação busca por esse usuário, recupera seus repositórios e os exibe numa outra página.
 
-<br>
+![github1](https://user-images.githubusercontent.com/86077339/131588703-09761f78-e860-4ae8-98a2-3b3120bbb321.png)
+![github2](https://user-images.githubusercontent.com/86077339/131588722-c7ae8687-9b3b-4098-ac35-b3656b00bed6.png)
+
+
 
 ## Tecnologias
 
@@ -31,5 +32,6 @@ Durante as aulas foram apresentados conceitos fundamentais de React, como;
 
  Execute os seguintes comandos na raíz do projeto:
 
- `npm install
-npm start`
+ ```npm install```
+ 
+```npm start```
