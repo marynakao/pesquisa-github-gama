@@ -1,6 +1,5 @@
 # Pesquisador de repositórios do GitHub
 
-## Sobre
 Projeto desenvolvido durante as aulas de React do Hiring Coders, da Gama Academy em parceria com a VTEX.
 
 Trata-se de uma aplicação onde, na página inicial, o usuário insere um nome de usuário do Github. Em seguida a aplicação busca por esse usuário, recupera seus repositórios e os exibe numa outra página.
